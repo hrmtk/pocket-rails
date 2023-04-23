@@ -36,3 +36,8 @@
 # Ignore config directory.
 /config
 
+# Ignore memo
+memo.txt
+
+# Ignore sample
+sample.rb
